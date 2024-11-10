@@ -62,7 +62,8 @@
 
 <div align="center">
   <!-- cookyman's GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=cookyman74&show_icons=true&theme=radical" alt="cookyman's GitHub stats" />&nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=cookyman74&show_icons=true&theme=radical" alt="cookyman's GitHub stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookyman74&layout=compact" />
 </div>
 

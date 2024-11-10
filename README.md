@@ -41,16 +41,21 @@
   
   <!-- PyTorch -->
   <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+
+  <!-- Matplotlib -->
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
 </div>
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+  
+  <!-- Spring Boot -->
+  <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
+
 </div>
 
 <br>
@@ -73,6 +78,23 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
+</div>
+
+<div align="center">
+    <!-- Jira -->
+  <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  
+  <!-- Confluence -->
+  <img src="https://img.shields.io/badge/confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white" />
+  
+  <!-- WebStorm -->
+  <img src="https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" />
+  
+  <!-- PyCharm -->
+  <img src="https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
+  
+  <!-- IntelliJ -->
+  <img src="https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
 
 <br>

@@ -60,9 +60,7 @@
 
 <br>
 
-![cookyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookyman74&show_icons=true&theme=radical&align=center) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookyman74&layout=compact&align=center)
+![cookyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookyman74&show_icons=true&theme=radical&align=center)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookyman74&layout=compact&align=center)
 
 <br>
 

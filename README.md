@@ -1,8 +1,5 @@
 <!--타이틀 부분-->
-![header](
-<div align="center">
-  https://capsule-render.vercel.app/api?type=waving&align=center&color=auto&height=300&section=header&text=capsule%20render&fontSize=90
-</div>)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=cookyman's%20profile&fontSize=90)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -62,11 +59,11 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
+  <a href="https://www.hell0world.net">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:cookyman@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/cookyman@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>

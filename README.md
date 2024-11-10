@@ -60,6 +60,12 @@
 
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookyman74&show_icons=true&theme=radical) &nbsp
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookyman74&layout=compact)
+
+<br>
+
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />

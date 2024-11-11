@@ -16,6 +16,15 @@
   <!-- TypeScript -->
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- FastAPI -->
+  <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+  <!-- Django -->
+  <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  
   <!-- Java -->
   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
   
@@ -27,7 +36,7 @@
 <br>
 
 <div align="center">
-    <!-- Python -->
+  <!-- Python -->
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   
   <!-- Pandas -->
@@ -35,12 +44,22 @@
   
   <!-- NumPy -->
   <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  
-  <!-- PyTorch -->
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
 
-  <!-- Matplotlib -->
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
+  <!-- OpenAI -->
+  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+
+  <!-- TensorFlow -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+
+  <!-- PyTorch -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+
+   <!-- LangChain (커스텀) -->
+  <img src="https://img.shields.io/badge/langchain-563D7C.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+
+  <!-- LLM (커스텀) -->
+  <img src="https://img.shields.io/badge/LLM-4A90E2.svg?style=for-the-badge&logo=ai&logoColor=white" alt="LLM" />
+
 </div>
 
 <br>

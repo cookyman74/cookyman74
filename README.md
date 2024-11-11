@@ -57,8 +57,8 @@
    <!-- LangChain (커스텀) -->
   <img src="https://img.shields.io/badge/langchain-563D7C.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 
-  <!-- LLM (커스텀) -->
-  <img src="https://img.shields.io/badge/LLM-4A90E2.svg?style=for-the-badge&logo=ai&logoColor=white" alt="LLM" />
+  <!-- Lama 커스텀 뱃지 -->
+  <img src="https://img.shields.io/badge/Lama-AI%20Model-ff69b4.svg?style=for-the-badge&logo=ai&logoColor=white" alt="Lama" />
 
 </div>
 

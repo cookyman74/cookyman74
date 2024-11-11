@@ -76,13 +76,13 @@
   <!-- VMware -->
   <img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
 
-  <!-- AWS (Amazon Web Services) -->
+  <!-- AWS (Amazon Web Services) with logo -->
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
 
   <!-- Google Cloud Platform (GCP) -->
   <img src="https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" />
 
-  <!-- Microsoft Azure -->
+  <!-- Microsoft Azure with logo -->
   <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
 
 </div>

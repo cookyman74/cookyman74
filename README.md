@@ -16,9 +16,6 @@
   <!-- TypeScript -->
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   
-  <!-- Tailwind CSS -->
-  <img src="https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
   <!-- Java -->
   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
   
@@ -49,18 +46,6 @@
 <br>
 
 <div align="center">
-  
-  <!-- Java -->
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
-  
-  <!-- Spring Boot -->
-  <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
-
-</div>
-
-<br>
-
-<div align="center">
   <!-- cookyman's GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=cookyman74&show_icons=true&theme=radical" alt="cookyman's GitHub stats" />
   <br>
@@ -85,7 +70,7 @@
 <br>
 
 <div align="center">
-      <!-- WebStorm -->
+  <!-- WebStorm -->
   <img src="https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" />
   
   <!-- PyCharm -->
@@ -93,6 +78,8 @@
   
   <!-- IntelliJ -->
   <img src="https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+
+  <!-- vscode -->
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />

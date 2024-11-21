@@ -4,17 +4,19 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <!-- TypeScript -->
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> 
+  
   <!-- NestJS -->
   <img src="https://img.shields.io/badge/nestjs-20232a.svg?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
   
   <!-- React.js -->
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  
-  <!-- TypeScript -->
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <br>
+  <br>
   
   <!-- Python -->
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
@@ -36,8 +38,6 @@
 <br>
 
 <div align="center">
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   
   <!-- Pandas -->
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
